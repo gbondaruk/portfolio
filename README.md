@@ -1,4 +1,27 @@
-// small change
+## What
+
+This is my first project for the UpLeveled bootcamp I'm participating in. It's a sample portfolio.
+
+## Why
+
+I created it in order to practice working with Github & the command line.
+
+## Who
+
+I created this project by forking an existing project, and I'll be maintaining it.
+
+## How
+
+While I understand this is a Next.js project, bootstrapped with [`create-next-app`], these are terms I'll become more familiar with in the next 3 months.
+
+## Where
+
+The portfolio is deployed on Netlify & hosted in this repository.
+
+## When
+
+This portfolio was forked by me and deployed on 13.01.2025, the start of the UpLeveled bootcamp.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
