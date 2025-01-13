@@ -16,7 +16,7 @@ export default function Navbar() {
     <nav className="navbar">
       <div className="container">
         <Link href="/" className="logo">
-          Lutfhi.
+          GB
         </Link>
 
         <ul className="nav-links">
